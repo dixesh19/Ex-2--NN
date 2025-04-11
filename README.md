@@ -1,6 +1,6 @@
-<H3>Name : Sathish R</H3> 
-<H3>Register no : 212222230138</H3>
-<H3>Date : 12/09/2024 </H3>
+<H3>Name : DINESH R</H3> 
+<H3>Register no : 212224240037</H3>
+<H3>Date : 11/04/2025 </H3>
 <H3>Experiment No. 2 </H3>
 
 # Implementation of Perceptron for Binary Classification
